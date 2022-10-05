@@ -13,7 +13,8 @@ ___
 ### Setup
 
 - new project :
-	hugo new site <name of site>
+		hugo new site <name of site>
+-
 
 
 
