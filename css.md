@@ -1,9 +1,16 @@
 ## CSS
 
+### For Whom
+
+This is meant as a reference for those who have forgotten the syntax (mostly for personal use).
+___
+
 ### Contents
 
 - [How to use](#how-to-use)
 - [Resources](#resources)
+
+___
 
 ### How to use
  
