@@ -9,6 +9,7 @@ ___
 
 ### Resources 
 
-- [web.dev/css](https://web.dev/learn/css/)
+- more like tutorial, concept by concept : [web.dev/css](https://web.dev/learn/css/)
+- exhaustive reference : [mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 
