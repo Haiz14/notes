@@ -3,7 +3,7 @@
 ___
 
 ### For whom
-Syntax reference, for those who have forgotten the syntax[^1]
+Syntax reference, for those who have forgotten the syntax [^1]
 ___
 
 ### Contents
