@@ -20,7 +20,7 @@ hugo new site <name of site>
 ___
 ### Footnotes
 
-[^1] change contents of `<>` to names of your choice
+[^1]: change contents of `<>` to names of your choice
 
 
 
