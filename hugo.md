@@ -12,7 +12,10 @@ ___
 
 ### Setup
 
-- new project :		hugo new site <name of site>
+- new project : ```bash
+hugo new site <name of site>
+```
+
 
 
 
