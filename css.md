@@ -3,7 +3,7 @@
 ### Contents
 
 
-### How-to-use-?
+### Use
  
 - **Using link**
 	- 		<link rel="stylesheet" href="styles/style.css">
@@ -36,4 +36,4 @@ e
 
 s
 
-- [How to use](#how-to-use-?)
+- [How to use](#use)
