@@ -4,7 +4,7 @@
 
 - [How to use](#how-to-use-?)
 
-### How to use ?
+### How-to-use-?
  
 - **Using link**
 	- 		<link rel="stylesheet" href="styles/style.css">
