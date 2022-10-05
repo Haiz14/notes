@@ -1,8 +1,6 @@
 ## CSS
-=========
 
-> #### How to use ?
-> ________
->
-
-• 
+> ### How to use ?
+> 
+> - **Using link**
+> -- <link rel="stylesheet" href="styles/style.css">
