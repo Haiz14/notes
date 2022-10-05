@@ -3,7 +3,7 @@
 ___
 
 ### For whom
-Syntax reference, for those who have forgotten the syntax
+Syntax reference, for those who have forgotten the syntax[^1]
 ___
 
 ### Contents
@@ -16,6 +16,11 @@ ___
 ```bash
 hugo new site <name of site>
 ```
+
+___
+### Footnotes
+
+[^1] change contents of `<>` to names of your choice
 
 
 
