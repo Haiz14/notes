@@ -12,7 +12,7 @@ ___
 
 ### Setup
 
-new project :
+- new project :
 		hugo new site <name of site>
 
 
