@@ -2,7 +2,7 @@
 
 ### Contents
 
-- [How to use](#how-its-used)
+- [How to use](#how-to-use)
 - [Resources](#resources)
 
 ### How to use
