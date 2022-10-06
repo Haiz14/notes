@@ -8,9 +8,11 @@ ___
 
 ### Resources
 
-- More like tutorial : [vultr/tmux](https://www.vultr.com/docs/how-to-install-and-use-tmux/)
+- More like tutorial (beginner) : [vultr/tmux](https://www.vultr.com/docs/how-to-install-and-use-tmux/)
 
-- Official docs : [tmux/docs](https://tmuxguide.readthedocs.io/en/latest/tmux/tmux.html)
+- How to use termuc in varius situation (best) [freecodecamp/tmux](https://www.freecodecamp.org/news/tmux-in-practice-series-of-posts-ae34f16cfab0/amp/)
+
+- Man pages (Everything) : [ubuntu/tmux](https://manpages.ubuntu.com/manpages/bionic/man1/tmux.1.html)
 
 ### Start
 
